@@ -1,0 +1,5 @@
+__pycache__/
+*.csv
+!sample_data/*.csv
+.venv/
+outputs/
